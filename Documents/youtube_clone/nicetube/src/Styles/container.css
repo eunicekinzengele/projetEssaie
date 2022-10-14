@@ -1,0 +1,40 @@
+.div__container{
+    color: white;
+    background-color: #0a0d0e;
+    margin-left: 20rem;
+    position: absolute;
+    margin-top: 7rem;
+    height: 30rem;
+    width: 37.5rem;
+}
+.container1{
+    width: 360px;
+    height: 300px;
+}
+.description{
+    background-color: red;
+    height: 100;
+    width: 360px;
+    top: 15rem;
+    position: absolute;
+}
+.exemple{
+    font-size: 30px;
+    color: red;
+}
+.title__video{
+    color: white;
+    margin-right: rem;
+    margin-left:-1px;
+    font-size: 18px;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 5rem;
+    column-gap: 70px;
+}
+img{
+    width: 200px;
+}

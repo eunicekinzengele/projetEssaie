@@ -1,0 +1,10 @@
+.div__lecture{
+    color: white;
+    background-color: #0a0d0e;
+    border: solid 2px white;
+    margin-left: 20rem;
+    position: absolute;
+    margin-top: 7rem;
+    height: 30rem;
+    width: 37.5rem;
+}
